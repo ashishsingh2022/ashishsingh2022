@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ashish</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">👋 Hi there! I’m Ashish, a curious mind eager to explore the how behind technology and processes.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
